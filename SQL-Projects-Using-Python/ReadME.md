@@ -1,5 +1,7 @@
 Here’s a well-structured **README.md** file that documents the Python and SQL connection using pymysql, including code explanations and instructions: 
 
+![WhatsApp Image 2024-11-17 at 22 16 37_126a6663](https://github.com/user-attachments/assets/2435d103-08da-48bc-aea6-bbe22c7f35a0)
+
 ```markdown
 # Python and SQL Integration using `pymysql`
 
