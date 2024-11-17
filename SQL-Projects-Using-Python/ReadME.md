@@ -192,29 +192,24 @@ conn.close()
 print("Connection closed")
 ```
 
----
+
 
 ## Notes
 1. Use `commit()` after any DML operations (INSERT, UPDATE, DELETE) to apply changes to the database.
 2. Ensure your MySQL server is running and credentials are correct.
 3. Replace database details (`host`, `user`, `password`, `db`) as per your environment.
 
----
+
 
 ## Author
 - **Rishi Maddheshiya**  
   - [LinkedIn Profile](https://www.linkedin.com/in/rishi-maddheshiya-020b14267/)  
   - [Portfolio Website](https://sites.google.com/view/rishi-portfolioo/home)  
 
----
+
 
 ## Contributions
 Feel free to contribute by opening an issue or submitting a pull request. 😊
 
----
 
-## License
-This project is licensed under the MIT License.
-```
 
-This updated file includes your LinkedIn profile and portfolio website under the **Author** section for better visibility.
